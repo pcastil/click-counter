@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7A7BE67C-6F86-4293-ACA4-06B5287C88F5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Click Counter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>6CF65F9B729CEBB2E9E5038442B17214CF619068</key>
+		<string>https://github.com/pcastil/click-counter.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Click Counter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>6CF65F9B729CEBB2E9E5038442B17214CF619068</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/pcastil/click-counter.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>6CF65F9B729CEBB2E9E5038442B17214CF619068</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>6CF65F9B729CEBB2E9E5038442B17214CF619068</string>
+			<key>IDESourceControlWCCName</key>
+			<string>click%20counter</string>
+		</dict>
+	</array>
+</dict>
+</plist>

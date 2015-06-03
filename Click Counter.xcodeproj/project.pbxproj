@@ -26,6 +26,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F375BD761B1E839C008A53DD /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 		F3D392401B1D53D0005B63A8 /* Click Counter.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Click Counter.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F3D392441B1D53D0005B63A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F3D392451B1D53D0005B63A8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +60,7 @@
 		F3D392371B1D53D0005B63A8 = {
 			isa = PBXGroup;
 			children = (
+				F375BD761B1E839C008A53DD /* MyPlayground.playground */,
 				F3D392421B1D53D0005B63A8 /* Click Counter */,
 				F3D392581B1D53D0005B63A8 /* Click CounterTests */,
 				F3D392411B1D53D0005B63A8 /* Products */,

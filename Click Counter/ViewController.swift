@@ -11,15 +11,15 @@ import UIKit
 class ViewController: UIViewController {
 
     var count = 0
-    var label : UILabel!    // optional - allows nil
+    @IBOutlet var label : UILabel!    // optional - allows nil
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
     }
 
-    func incrementCount() {
-        count++;
+    @IBAction func incrementCount() {
+        self.count++;
         label.text = "\(count)"
     }
 
